@@ -10,7 +10,7 @@ I was abducted by aliens when I was a child and when they returned me they had m
     1. ~~get coordinates of major air force bases in the U.S. & Area 51~~
     2. ~~make sure all data is cleaned and ready for import~~
     4. ~~get list of top 10 movies to look at~~
-8/4 EoD:
+8/7 EoD:
     1. get a basic map with all of the ufo locations plotted/decide on powerbi or tableau
     2. get started exploring different types of charts
 
